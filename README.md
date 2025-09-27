@@ -2,8 +2,8 @@
 <p>
   The node editor does what it says — helps you edit nodes for SCUM.
 </p>
-<img src="https://imgur.com/jFOLOFj" alt="SCUM Node Editor Screenshot" style="max-width:100%; margin-bottom: 20px;">
 
+![Toolbar](https://imgur.com/jFOLOFj.png)
 <h3>Buttons:</h3>
 <ul>
   <li><strong>Load JSON:</strong> Select a JSON node file to open.</li>
@@ -26,12 +26,15 @@
   <li><strong>Add Child:</strong> Adds a child to the currently selected node.</li>
   <li><strong>Remove Node:</strong> Removes the selected node. If it has children, they will be removed too.</li>
 </ul>
-<img src="https://imgur.com/RMNU7xd" alt="Toolbar Buttons" style="max-width:100%; margin-bottom: 20px;">
+
+![Toolbar](https://imgur.com/RMNU7xd.png)
 <h3>Visual Editor</h3>
 <ul>
   <li>All of these changes can also be done in the visual editor by right-clicking.</li>
+  <li>Hovering over a slice will show the nested children and percentages.</li>
   <li>Click a slice in the visual editor to drill down a level.</li>
   <li>If a slice is darkened and no items appear on hover, then there are no children.</li>
   <li>Use the breadcrumbs at the top of the screen to move back up a level or more.</li>
 </ul>
-<img src="https://imgur.com/dWycSgN" alt="Visual Editor" style="max-width:100%;">
+
+![Toolbar](https://imgur.com/dWycSgN.png)
